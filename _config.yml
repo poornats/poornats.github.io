@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Poorna Talkad Sukumar
-tagline:          ''
+# tagline:          ''
 description:      ''
 url:              https://poornats.github.io
 baseurl:          /
