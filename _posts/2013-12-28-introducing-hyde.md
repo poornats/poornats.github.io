@@ -3,7 +3,7 @@ layout: post
 title: about
 ---
 
-I am the Mary H. '80 and Richard K. '80 Templeton Assistant Professor in the [Department of Computer Science](https://www.union.edu/computer-science) at Union College, Schenectady, USA. 
+I am the **Mary H. '80 and Richard K. '80 Templeton Assistant Professor** in the [Department of Computer Science](https://www.union.edu/computer-science) at Union College, Schenectady, USA. 
 
 I completed my Ph.D. in Computer Science and Engineering from the University of Notre Dame, USA under the guidance of [Dr. Aaron Striegel](http://sites.nd.edu/aaron-striegel/) and [Dr. Ronald Metoyer](http://sites.nd.edu/ronald-metoyer/). 
 
