@@ -1,7 +1,8 @@
 ---
 layout: post
-title: about
+title: Poorna Talkad Sukumar, Ph.D.
 ---
+
 
 I am the **Mary H. '80 and Richard K. '80 Templeton Assistant Professor** in the [Department of Computer Science](https://www.union.edu/computer-science) at Union College, Schenectady, USA. 
 
