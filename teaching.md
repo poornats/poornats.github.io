@@ -7,16 +7,17 @@ title: Teaching
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
+<br>
+
 #### Fall 2021
-CSC 105 -  Game Development: Introduction to Computer Science
+* CSC 105 -  Game Development: Introduction to Computer Science
 
-#### Winter 2021
-CSC 105 -  Game Development: Introduction to Computer Science
+#### Winter 2022
+* CSC 105 -  Game Development: Introduction to Computer Science
 
-#### Spring 2021
-CSC 250 -  Algorithm Design and Analysis 
-
-CSC 380 -  User Interfaces
+#### Spring 2022
+* CSC 250 -  Algorithm Design and Analysis 
+* CSC 380 -  User Interfaces
 
 <!-- * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
