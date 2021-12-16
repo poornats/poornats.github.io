@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /Publications/
 title: Publications
 ---
 
