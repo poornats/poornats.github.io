@@ -7,13 +7,13 @@ title: Teaching
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-#### *Fall 2021*
+#### Fall 2021
 CSC 105 -  Game Development: Introduction to Computer Science
 
-#### *Winter 2021*
+#### Winter 2021
 CSC 105 -  Game Development: Introduction to Computer Science
 
-#### *Spring 2021*
+#### Spring 2021
 CSC 250 -  Algorithm Design and Analysis 
 
 CSC 380 -  User Interfaces
