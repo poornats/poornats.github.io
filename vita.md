@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
 Download [CV](CV_PoornaTalkadSukumar.pdf).
