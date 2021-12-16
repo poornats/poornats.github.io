@@ -9,15 +9,15 @@ title: Teaching
 
 <br>
 
-#### Fall 2021
-* CSC 105 -  Game Development: Introduction to Computer Science
+#### CSC 105 - Game Development: Introduction to Computer Science 
+* Fall 2021 
+* [Win 2022]()
 
-#### Winter 2022
-* CSC 105 -  Game Development: Introduction to Computer Science
+#### CSC 250 - Algorithm Design and Analysis 
+* Spr 2022
 
-#### Spring 2022
-* CSC 250 -  Algorithm Design and Analysis 
-* CSC 380 -  User Interfaces
+#### CSC 380 - User Interfaces 
+* Spr 2022
 
 <!-- * [Hyde](http://hyde.getpoole.com)
 * [Lanyon](http://lanyon.getpoole.com)
