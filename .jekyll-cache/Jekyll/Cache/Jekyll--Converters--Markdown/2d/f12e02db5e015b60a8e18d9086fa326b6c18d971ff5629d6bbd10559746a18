@@ -1,12 +1,7 @@
-I"O<!-- <p class="message">
+I"Ç<!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-<p class="message">
-<a href="Research_statement_Poorna.pdf">Research Statement</a>
-</p>
-
-<h3 id="publications">Publications</h3>
 <p>(in reverse chronological order)</p>
 
 <ul>
@@ -31,7 +26,7 @@ Interaction Logs.</a> EuroVis 2020 - Short Papers. (45.7% Acceptance Rate)</p>
     <p><strong>Talkad Sukumar, P.,</strong> &amp; Metoyer, R. <a href="https://osf.io/rxva3/">Mobile Devices in Programming Contexts: A Review of the Design Space and Processes.</a> In Proceedings of the 2019 on Designing Interactive Systems Conference (pp. 1109-1122). (25% Acceptance Rate)</p>
   </li>
   <li>
-    <p>Zhi, Q., Lin, S., <strong>Talkad Sukumar, P.,</strong> &amp; Metoyer, R. <a href="https://osf.io/rxva3/">GameViews: Understanding and Supporting Data-driven Sports Storytelling.</a> In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13). (23.8% Acceptance Rate). <em><span style="color:#2E86C1">Best Paper Honorable Mention Award (top 5%)</span>.</em></p>
+    <p>Zhi, Q., Lin, S., <strong>Talkad Sukumar, P.,</strong> &amp; Metoyer, R. <a href="https://dl.acm.org/doi/pdf/10.1145/3290605.3300499">GameViews: Understanding and Supporting Data-driven Sports Storytelling.</a> In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13). (23.8% Acceptance Rate). <strong><span style="color:#2E86C1">Best Paper Honorable Mention Award (top 5%)</span>.</strong></p>
   </li>
   <li>
     <p><strong>Talkad Sukumar, P.,</strong> Liu, A., &amp; Metoyer, R. <a href="https://osf.io/rbekt/">Replicating User-defined Gestures for Text Editing.</a> In Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (pp. 97-106). (26.7% Acceptance Rate)</p>
@@ -41,6 +36,25 @@ Interaction Logs.</a> EuroVis 2020 - Short Papers. (45.7% Acceptance Rate)</p>
                                     <a href="https://osf.io/h5apj/">Making a Pecan Pie: Understanding and Supporting The Holistic Review Process in Admissions.</a>
                                     Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-22. (Acceptance Rate: 25.6%)</p>
   </li>
+  <li>
+    <p><strong>Talkad Sukumar, P.,</strong> &amp; Metoyer, R. <a href="https://osf.io/q38pg/">Towards Designing Unbiased Replication Studies in Information Visualization.</a> 
+In 2018 IEEE Evaluation and Beyond-Methodological Approaches for Visualization (BELIV) (pp. 93-101).</p>
+  </li>
+  <li>
+    <p><strong>Talkad Sukumar, P.,</strong> &amp; Metoyer, R. <a href="https://aedeegee.github.io/bookchapter18.pdf#page=163"> A Visualization Approach to Addressing Reviewer Bias in Holistic College Admissions.</a> 
+In Cognitive Biases in Visualizations (pp. 161-175). Springer, Cham.</p>
+  </li>
+  <li>
+    <p><strong>Talkad Sukumar, P.,</strong> Metoyer, R., &amp; He, S. <a href="http://decisive-workshop.dbvis.de/wp-content/uploads/2017/09/0105-paper.pdf">Holistic Reviews in Admissions: Reviewer Biases and Visualization Strategies to Mitigate
+Them. </a> In DECISIVe: Workshop on Dealing with Cognitive Biases in Visualizations. IEEE VIS.</p>
+  </li>
+  <li>
+    <p>Fischer, C., <strong>Talkad Sukumar, P.,</strong> &amp; Hazas, M. <a href="https://ieeexplore.ieee.org/abstract/document/6127851">Tutorial: implementation of a pedestrian tracker using foot-mounted inertial sensors.</a>
+IEEE Pervasive Computing, 12(2), 17-27.</p>
+  </li>
+  <li>
+    <p><strong>Talkad Sukumar, P.</strong> <a href="https://osf.io/4qg8j/">Enhanced Stance Phase Detection and Extended Kalman Filtering for Strapdown Pedestrian
+Dead Reckoning. </a> Masterâ€™s Thesis, Lancaster University, UK.</p>
+  </li>
 </ul>
-
 :ET
