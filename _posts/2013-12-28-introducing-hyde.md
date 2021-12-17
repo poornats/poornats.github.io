@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poorna Talkad Sukumar, Ph.D.
+title: Home
 ---
 
 
