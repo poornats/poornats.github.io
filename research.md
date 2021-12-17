@@ -10,7 +10,7 @@ permalink: research
 </p> -->
 
 <br>
-My <a href="Research_statement_Poorna.pdf">research statement.</a>
+My <a href="Research_statement_Poorna.pdf">research statement</a>
 
 
 <!-- My research in **human-computer interaction** and **information visualization** spans many application domains, from visualizing personal sensing data to studying biases with visualizations. My particular interests are in **designing effective strategies to mitigate biases and improve decision-making in visualization and expanding visualization usage contexts by creating effective visualizations for mobile devices and personal data.** 
