@@ -8,7 +8,7 @@ permalink: teaching
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-<br>
+(at Union)
 
 #### CSC 105 - Game Development: Introduction to Computer Science 
 * Fall 2021 
