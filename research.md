@@ -9,9 +9,9 @@ permalink: research
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-<p class="message">
-<a href="Research_statement_Poorna.pdf">Research Statement</a>
-</p>
+
+Download <a href="Research_statement_Poorna.pdf">Research Statement</a>
+
 
 <!-- My research in **human-computer interaction** and **information visualization** spans many application domains, from visualizing personal sensing data to studying biases with visualizations. My particular interests are in **designing effective strategies to mitigate biases and improve decision-making in visualization and expanding visualization usage contexts by creating effective visualizations for mobile devices and personal data.** 
 I am also interested in initiatives towards advancing open practices and transparency in research. I have organized a [panel on transparency in qualitative research in human–computer interaction](https://osf.io/auhpd) and contributed to the [ACM CHI conference reviewing guidelines](https://doi.org/10.5281/zenodo.5566172). I believe that open practices, such as, transparent reporting of the research process and data sharing, are not only important for establishing the rigor and validity of empirical studies but can also provide invaluable guidance to students and beginners starting out in the field.  
