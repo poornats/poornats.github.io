@@ -9,8 +9,8 @@ permalink: research
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-
-Download <a href="Research_statement_Poorna.pdf">Research Statement</a>
+<br>
+Download <a href="Research_statement_Poorna.pdf">Research Statement.</a>
 
 
 <!-- My research in **human-computer interaction** and **information visualization** spans many application domains, from visualizing personal sensing data to studying biases with visualizations. My particular interests are in **designing effective strategies to mitigate biases and improve decision-making in visualization and expanding visualization usage contexts by creating effective visualizations for mobile devices and personal data.** 
