@@ -12,7 +12,7 @@ permalink: teaching
 
 #### CSC 105 - Game Development: Introduction to Computer Science 
 * Fall 2021 
-* [Win 2022](https://poornats.github.io/CSC105/)
+* [Win 2022](https://poornats.github.io/CSC105/Syllabus.pdf)
 
 #### CSC 250 - Algorithm Design and Analysis 
 * Spr 2022
