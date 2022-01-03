@@ -6,13 +6,13 @@ title: Home
 
 
 
-I am the **Mary H. '80 and Richard K. '80 Templeton Assistant Professor** in the [Department of Computer Science](https://www.union.edu/computer-science) at Union College, Schenectady, USA. 
+I am the **Mary H. '80 and Richard K. '80 Templeton Assistant Professor** in the [Department of Computer Science](https://cs.union.edu/) at [Union College](https://www.union.edu/), Schenectady, USA. 
 
-I completed my Ph.D. in Computer Science and Engineering from the University of Notre Dame, USA under the guidance of [Dr. Aaron Striegel](http://sites.nd.edu/aaron-striegel/) and [Dr. Ronald Metoyer](http://sites.nd.edu/ronald-metoyer/). 
+I completed my Ph.D. in [Computer Science and Engineering](https://cse.nd.edu/) from the [University of Notre Dame](https://www.nd.edu/), USA under the guidance of [Dr. Aaron Striegel](http://sites.nd.edu/aaron-striegel/) and [Dr. Ronald Metoyer](http://sites.nd.edu/ronald-metoyer/). 
 
 My research falls within the realms of human-computer interaction (HCI) and information visualization. I am generally interested in building user interfaces and applying human-centered methods to understand people and their interactions with technology and visualizations.
             
-I have a Master’s degree in Mobile and Ubiquitous Computing from Lancaster University, UK and a Bachelor’s degree in Computer Science and Engineering from Visvesvaraya Technological University, Karnataka, India.
+I have a Master’s degree in Mobile and Ubiquitous Computing from [Lancaster University](https://www.lancaster.ac.uk/), UK and a Bachelor’s degree in [Computer Science and Engineering](https://www.dsce.edu.in/computer-science-engineering/courses-cse) from Dayananda Sagar College of Engineering, Bangalore, India.
 
 
 
