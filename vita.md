@@ -7,4 +7,4 @@ permalink: vita
 <br>
 Download [CV](Poorna_CV.pdf).
 <br>
-(Last updated April, 2021)
+(Last updated March, 2022)
