@@ -5,6 +5,6 @@ permalink: vita
 ---
 
 <br>
-Download [CV](CV_PoornaTalkadSukumar.pdf).
+Download [CV](Poorna_CV.pdf).
 <br>
 (Last updated April, 2021)
