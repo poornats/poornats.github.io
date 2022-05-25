@@ -11,9 +11,9 @@ permalink: publications
 
 (in reverse chronological order)
 
-* **Talkad Sukumar, P.,**  Dey, A., Mark, G., Metoyer, R., & Striegel, A.(2022). <a href="">Triggers and Barriers to Insight Generation in Personal Visualizations.</a> Graphics Interface 2022 (To appear).
+* **Talkad Sukumar, P.,**  Dey, A., Mark, G., Metoyer, R., & Striegel, A.(2022). <a href="https://openreview.net/pdf?id=v38DXhUcoeU">Triggers and Barriers to Insight Generation in Personal Visualizations.</a> Graphics Interface 2022 (To appear).
 
-* Breideband, T., **Talkad Sukumar, P.,**  Mark, G., Caruso, M., D'Mello, S., & Striegel, A.(2022). <a href="">Home-Life and Work Rhythm Diversity in Distributed Teamwork: A Study with Information Workers during the COVID-19 Pandemic.</a> CSCW 2022 (To appear).
+* Breideband, T., **Talkad Sukumar, P.,**  Mark, G., Caruso, M., D'Mello, S., & Striegel, A.(2022). <a href="https://dl.acm.org/doi/pdf/10.1145/3512942">Home-Life and Work Rhythm Diversity in Distributed Teamwork: A Study with Information Workers during the COVID-19 Pandemic.</a> CSCW 2022 (To appear).
 
 * **Poorna Talkad Sukumar.** (2021). <a href="https://curate.nd.edu/show/n296ww75r82">Contextual and Qualitative Approaches for Visualization Design.</a> Doctoral dissertation, University Of Notre Dame.
 
