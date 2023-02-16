@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!-- saved from url=(0096)https://tesserae-wearable.crc.nd.edu/viz/index.html?pid=8c8caa033ec0caec1f48b24e7c661a95958978ef -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+     
+    <body>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script>
+
+        // $.ajax({
+                                              
+        //                                       async: false,
+        //                                       type : "POST",
+        //                                       url : "get-data.php",
+        //                                  //     dataType : 'json',
+        //                                       data : {RID:'R_2OK1rMe2bzTwXA9' },
+        //                                    success: function(data){
+                                            
+        //                                     if (data == 0){
+        //                                       window.location.href = 'http://localhost:8888/Study_conditions/condition1b.html'
+        //                                     }
+
+        //                                    }
+        //                                   });
+
+
+
+        fetch("get-data.php", {
+  method: 'POST', 
+  body: {RID:'R_2OK1rMe2bzTwXA9' },
+})
+        .then((response) => {
+            if(!response.ok){ 
+                              
+                throw new Error("Something went wrong!");
+            }
+
+            return response.json(); 
+        })
+        .then((data) => {
+             
+          if (data == 0){
+            window.location.href = 'http://localhost:8888/Study_conditions/condition1b.html'
+          }
+        })
+        .catch((error) => {
+             
+        });
+
+
+
+
+    </script>
+
+     	
+</body></html>
